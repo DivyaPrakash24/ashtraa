@@ -1,0 +1,12 @@
+b {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+}
